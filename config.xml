@@ -4,11 +4,11 @@
     <description>
         Designer Shop App
     </description>
-    <author email="support@phonegap.com" href="https://mozg.pro">
+    <author email="mail@mozg.pro" href="https://mozg.pro">
         Mozg.pro
     </author>
     <content src="index.html" />
     <access origin="*" />
     <plugin name="cordova-plugin-legacy-whitelist" spec="1.1.1" />
-	<access origin="http://designer.mozg.pro" />
+	<access origin="http://tumanskaya.com" />
 </widget>
